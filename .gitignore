@@ -1,4 +1,5 @@
 checkpoint*
 .ipynb_checkpoints
 .idea
-data/
+data/*
+!data/test
